@@ -1,0 +1,9 @@
+* {font-family: Georgia, 'Times New Roman', Times, serif}
+h1 {text-align: center; color: red;}
+.p1 {text-align: center;}
+.p2 {text-align: center;}
+h3 {color: red;}
+p {position: relative;left:30px}
+h4 {position: relative;left:30px}
+.c {font-weight: 900;}
+span {font-weight: normal;}
